@@ -1,2 +1,2 @@
 # csd-310
- Database...use class
+ Database development and use class
